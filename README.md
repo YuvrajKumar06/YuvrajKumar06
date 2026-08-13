@@ -6,7 +6,7 @@
 💬 My areas of interest include Data Analytics, Machine Learning, Databases, and Business Intelligence.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuvraj-kumar-b65579282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/yuvraj-kumar-b6557928 )
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvrajKumar06)
 
 # 💻 Tech Stack:
